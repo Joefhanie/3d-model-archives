@@ -70,7 +70,7 @@
           style="width: 100%; height: 300px"
         ></model-viewer>
         <div class="card-body">
-          <h5 class="card-title">Ching Ching</h5>
+          <h5 class="card-title">Ching ching</h5>
           <p class="card-text">
             Some quick example text to build on the card title and make up the bulk of the card's
             content.
